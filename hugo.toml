@@ -1,0 +1,7 @@
+baseURL = "https://example.org/"
+languageCode = "fr-FR"
+title = "Mon Nouveau Site Hugo"
+theme = "hinode-main"
+
+[[module.imports]]
+path = "github.com/gethinode/hinode"
